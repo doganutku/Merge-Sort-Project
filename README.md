@@ -21,4 +21,4 @@
 	2^x=n
 	x=log(n) 
 	log(n)*(n-1)
-	so, the Big-O notation is O(nlog(n))
+	so, the Big-O notation is O(n*log(n))
